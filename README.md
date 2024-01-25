@@ -1,7 +1,9 @@
 ![alt text](./top.png)
 
-<img  align='right' src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quotes" width="auto" height="auto" >
 
+<img  align='right' src="https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical" alt="Quotes" width="auto" height="auto" >
+
+<br><br>
 Hi! My name is Augusto Daleffe, I'm a computer engineer student at Universidade Federal de Santa Catarina (UFSC). This is my digital workspace, where I share projects and code related to my academic and professional journey in the field of computing. 
 
 I'm constantly looking for challenges that allow me to apply my knowledge and creativity. I believe that programming goes beyond simple code. it's a way of expressing ideas and solving problems in an innovative way. That's why you'll see all kinds of code in this workspace.
