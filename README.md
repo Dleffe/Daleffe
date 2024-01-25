@@ -3,7 +3,7 @@
 
 # Bem-vindo ao meu GitHub! 👋🏼
 
-<img align="right"  src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" alt="Alt Text" width="auto" height="100vh">
+<img align="right"  src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" alt="Alt Text" width="auto" height="300px">
 
 <br>Olá, meu nome é Augusto Daleffe, e sou estudante de Engenharia de Computação na Universidade Federal de Santa Catarina. Este é o meu espaço digital, onde compartilho projetos e códigos relacionados à minha jornada acadêmica e profissional no campo da computação.
 
