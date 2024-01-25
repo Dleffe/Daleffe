@@ -1,5 +1,5 @@
 
-  <img align="right" style="margin-top: 10vh;" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" alt="Alt Text" width="280" height="auto">
+  <img align="right" style="margin-top: 100vh;" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" alt="Alt Text" width="280" height="auto">
 
 # Bem-vindo ao meu GitHub! 👋🏼
 
